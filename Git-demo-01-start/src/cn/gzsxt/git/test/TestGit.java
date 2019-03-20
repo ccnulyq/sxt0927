@@ -5,6 +5,7 @@ public class TestGit {
 	public static void main(String[] args) {
 		System.out.println("hello,git");
 		int b = 5;
+		int a = 2;
 	}
 	public void testGit(){
 	        System.out.println("hello,testGit");
